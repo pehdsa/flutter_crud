@@ -3,7 +3,6 @@ import 'package:flutter_crud/components/user_tile.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_crud/provider/users.dart';
 import 'package:flutter_crud/routes/app_routes.dart';
-import 'package:flutter_crud/models/user.dart';
 
 class UserList extends StatelessWidget {
     @override
